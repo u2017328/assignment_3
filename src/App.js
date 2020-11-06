@@ -9,6 +9,9 @@ function App() {
         <p>
           Edit <code>src/App.js</code> text changes by Talha 328.
         </p>
+    <p>
+          Edit <code>src/App.js</code> changes for heroku
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
